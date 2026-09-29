@@ -1,2 +1,3 @@
-# cl-ger-ek
-tracker bu sefer gerçek cl
+bu yaapıaln demo halidir sadece bir fikirdir
+
+
